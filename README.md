@@ -2,7 +2,7 @@
 
 ## Test Instructions
 
-This is a comprehensive technical challenge to assess your ability to create innovative blockchain solutions. You must build a complete, functional cryptocurrency from the ground up.
+This is a comprehensive technical challenge to assess your ability to create innovative blockchain solutions. You must build a complete, functional cryptocurrency from the ground up **using the Rust programming language**.
 
 ## Challenge Objectives
 
@@ -13,12 +13,13 @@ Create a brand new cryptocurrency and blockchain system that is:
 - **Innovative** - Introduce novel features or improvements over existing cryptocurrencies
 - **Jules-themed** - All naming, branding, and terminology should relate to Jules
 - **Built from scratch** - No forks or modifications of existing chains
+- **Written in Rust** - All core blockchain, wallet, and infrastructure code must be implemented in Rust
 
 ## Technical Requirements
 
 ### Blockchain Core
 
-- Design and implement a custom blockchain architecture
+- Design and implement a custom blockchain architecture **in Rust**
 - Create a unique consensus mechanism (not just copy Proof of Work/Stake)
 - Implement proper cryptographic hashing and digital signatures
 - Design block structure and transaction format
@@ -29,7 +30,7 @@ Create a brand new cryptocurrency and blockchain system that is:
 - **Token Name**: Must be Jules-themed (e.g., “JuleCoin”, “JulieToken”, etc.)
 - **Supply Management**: Implement innovative tokenomics
 - **Transaction System**: Fast, efficient, and secure transfers
-- **Wallet System**: Create user-friendly wallet software
+- **Wallet System**: Create user-friendly wallet software **in Rust**
 - **Mining/Validation**: Design fair and energy-efficient validation process
 
 ### Innovation Requirements
@@ -55,15 +56,15 @@ You must introduce at least 3 novel features that don’t exist in other cryptoc
 
 ### 1. Core Blockchain Implementation
 
-- Complete blockchain node software
+- Complete blockchain node software **written in Rust**
 - Network protocol implementation
 - Consensus mechanism code
 - Transaction processing system
 
 ### 2. Cryptocurrency Infrastructure
 
-- Wallet application (CLI or GUI)
-- Mining/validation software
+- Wallet application (CLI or GUI) **written in Rust**
+- Mining/validation software **in Rust**
 - Block explorer functionality
 - Network monitoring tools
 
@@ -77,7 +78,7 @@ You must introduce at least 3 novel features that don’t exist in other cryptoc
 
 ### 4. Testing Suite
 
-- Unit tests for all components
+- Unit tests for all components **using Rust’s testing framework**
 - Integration tests for network functionality
 - Security vulnerability assessment
 - Performance benchmarks
@@ -130,16 +131,17 @@ All components must use Jules-themed names:
 - **Innovative features** not seen in other cryptocurrencies
 - **Complete documentation** explaining all systems
 - **Security assessment** proving production readiness
+- **All core code written in Rust**
 
 ## Getting Started Checklist
 
 1. Research existing cryptocurrency architectures
 1. Design your innovative consensus mechanism
 1. Plan the Jules-themed naming system
-1. Implement core blockchain functionality
+1. Implement core blockchain functionality **in Rust**
 1. Build cryptocurrency transaction system
-1. Create wallet and user interfaces
-1. Develop mining/validation software
+1. Create wallet and user interfaces **in Rust**
+1. Develop mining/validation software **in Rust**
 1. Write comprehensive documentation
 1. Perform security testing and auditing
 1. Launch test network with multiple nodes
@@ -157,10 +159,10 @@ Achieve all objectives through iterative development and parallel work:
 
 ### Implementation Goals
 
-- Develop functional blockchain node software
+- Develop functional blockchain node software **in Rust**
 - Create complete transaction processing system
-- Build user-friendly wallet functionality
-- Implement mining/validation system
+- Build user-friendly wallet functionality **in Rust**
+- Implement mining/validation system **in Rust**
 
 ### Innovation Goals
 
@@ -173,7 +175,7 @@ Achieve all objectives through iterative development and parallel work:
 
 - Conduct comprehensive security audit
 - Perform vulnerability assessments
-- Execute complete testing suite
+- Execute complete testing suite **using Rust**
 - Validate all cryptographic implementations
 
 ### Documentation Goals
@@ -192,6 +194,6 @@ Achieve all objectives through iterative development and parallel work:
 
 ## Final Note
 
-This challenge tests your ability to create real, innovative blockchain technology. The result should be a genuinely new cryptocurrency that could theoretically be deployed to mainnet. Focus on security, innovation, and proper implementation.
+This challenge tests your ability to create real, innovative blockchain technology. The result should be a genuinely new cryptocurrency that could theoretically be deployed to mainnet. **All core and infrastructure code must be written in Rust.** Focus on securi[...]
 
 Good luck, Jules! Create something revolutionary!
